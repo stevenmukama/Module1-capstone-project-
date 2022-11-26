@@ -724,10 +724,6 @@ img.responsive.thirdsectionspeakerimage {
     text-decoration: underline;
   }
 
-  /* .navbarcontainer.show {
-    display: none;
-  } */
-
   /* end sectiontwo */
 
   /* start sectionthree */
@@ -756,11 +752,6 @@ img.responsive.thirdsectionspeakerimage {
     justify-content: space-between;
   }
 
-
-  /* end sectionfour */
-
-  /* about design */
-
   .herosection.about > p {
     width: 500px;
     margin: 0 auto 33px auto;
@@ -780,5 +771,3 @@ img.responsive.thirdsectionspeakerimage {
     margin: auto;
   }
 }
-
-/* end media query styles */

@@ -1,4 +1,4 @@
-# Module1 capstone project  
+# First module capstone project
 This project was done with html,css and javascript 
 
 ## Built With

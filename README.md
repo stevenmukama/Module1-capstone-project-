@@ -32,12 +32,18 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+<a name="acknowledgements"></a>
 
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank [Cindy Shin ](https://www.behance.net/gallery/29845175/CC-Global-Summit-20150) who designed the template for me to use.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+
+
